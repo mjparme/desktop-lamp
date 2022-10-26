@@ -1,12 +1,12 @@
-use <../../lib/paths.scad>
-use <../../lib/bosl/constants.scad>
-use <../../lib/knurled/knurledFinishLib-v2.scad>
-include <../../lib/bosl/threading.scad>
-use <../../lib/tableClamp.scad>
-use <../../lib/knurledScrew.scad>
-use <../../lib/triangles.scad>
-use <../../lib/cylinders.scad>
-use <../../lib/cubes.scad>
+use <./lib/paths.scad>
+use <./lib/bosl/constants.scad>
+use <./lib/knurled/knurledFinishLib-v2.scad>
+include <./lib/bosl/threading.scad>
+use <./lib/tableClamp.scad>
+use <./lib/knurledScrew.scad>
+use <./lib/triangles.scad>
+use <./lib/cylinders.scad>
+use <./lib/cubes.scad>
 
 
 include <./config/config.scad>
